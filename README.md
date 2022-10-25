@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-### I am Malako Benny Nagato
+### I am Malako Binyamin Mekonen
 - A software Developer 
 - Currently student at Teach Career college 🎓 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.

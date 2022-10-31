@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### I am  Binyamin Mekonen
 - A software Developer 
-- Currently student at Teach Career college 🎓 
+- Currently student at Teach-Career college 🎓 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ### My technical skills  
   
